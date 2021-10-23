@@ -17,6 +17,8 @@ if (isset($_POST['submit'])) {
 			$_SESSION['Status'] = 1;
 			echo $_SESSION['Email']  = $Email;
 			header('location:../users/index.php');
+
+			
 		}
 	}
 }
