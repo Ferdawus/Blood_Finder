@@ -1,0 +1,44 @@
+#bg{
+	background-color: #eaeded ;
+}
+.header{
+	padding: 10px 0;
+}
+.form{
+	height: 29em;
+	width: 23em;
+	background-color: #D9AFD9;
+    background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
+}
+.form-background{
+	padding: 40px 40px;
+	background-color: #D9AFD9;
+    background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
+
+}
+.img{
+	background-image: url(../img/images.png);
+	background-repeat: no-repeat;
+}
+.col{
+    -ms-flex: 0 0 16.666667%;
+    flex: 0 0 16.666667%;
+    max-width: 9.666667%;
+}
+/* carousel */
+.carousel-custom {
+    text-align: left;
+    margin-bottom: 8rem;
+}
+
+/*blood-finder  */
+.blood-finder{
+	background-color: #fe3c47;
+	padding: 3rem 0;
+}
+
+
+
+
+
+       
